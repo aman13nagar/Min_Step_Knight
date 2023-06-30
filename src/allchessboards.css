@@ -1,0 +1,25 @@
+.Board{
+    display: grid;
+    margin:30px;
+    place-content: center;
+    /*padding:20px;*/
+}
+.rows{
+    display:flex;
+}
+.allchessboard {
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    place-content: center;
+    /*grid-template-columns: repeat(8,50px);
+    grid-template-rows: repeat(8,50px);
+    /*height: 400px;
+    width: 400px;*/
+    
+    background-color:black;
+}
+#chessboard{
+    width: 400px;
+    height:400px;
+}
