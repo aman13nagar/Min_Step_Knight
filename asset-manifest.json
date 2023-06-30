@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Min_Step_Knight/static/css/main.d575d69e.css",
+    "main.js": "/Min_Step_Knight/static/js/main.0e765b9a.js",
+    "index.html": "/Min_Step_Knight/index.html",
+    "main.d575d69e.css.map": "/Min_Step_Knight/static/css/main.d575d69e.css.map",
+    "main.0e765b9a.js.map": "/Min_Step_Knight/static/js/main.0e765b9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d575d69e.css",
+    "static/js/main.0e765b9a.js"
+  ]
+}
