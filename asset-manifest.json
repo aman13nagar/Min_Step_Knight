@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/The_Knights_Tour/static/css/main.d575d69e.css",
-    "main.js": "/The_Knights_Tour/static/js/main.0e765b9a.js",
-    "index.html": "/The_Knights_Tour/index.html",
-    "main.d575d69e.css.map": "/The_Knights_Tour/static/css/main.d575d69e.css.map",
-    "main.0e765b9a.js.map": "/The_Knights_Tour/static/js/main.0e765b9a.js.map"
+    "main.css": "/Min_Step_Knight/static/css/main.d575d69e.css",
+    "main.js": "/Min_Step_Knight/static/js/main.0e765b9a.js",
+    "index.html": "/Min_Step_Knight/index.html",
+    "main.d575d69e.css.map": "/Min_Step_Knight/static/css/main.d575d69e.css.map",
+    "main.0e765b9a.js.map": "/Min_Step_Knight/static/js/main.0e765b9a.js.map"
   },
   "entrypoints": [
     "static/css/main.d575d69e.css",
