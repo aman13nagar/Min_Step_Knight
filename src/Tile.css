@@ -40,3 +40,35 @@
 .tile img{
     width: 40px;
 }
+@media(max-width:476px){
+    .tile{
+        display: grid;
+        place-content: center;
+        width: 20px;
+        height:20px;
+        background-repeat: no-repeat;
+    }
+    .tile .King{
+        width:20px;
+        height:20px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 20px;
+    }
+    .tile .King:hover{
+        cursor:grab;
+    }
+    .tile .King:active{
+        cursor:grabbing;
+    }
+    .tile .Knight{
+        width:20px;
+        height:20px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 17.5px;
+    }
+    .tile img{
+        width: 20px;
+    }
+}
