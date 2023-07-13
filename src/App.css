@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+.app{
+  display: grid;
+  place-content: center;
+  background-color:black
+}
+.app h1{
+  color:white;
+  text-align: center;
+}
+h1{
+  display: flex;
+  place-content: center;
+}
+.app1{
+  display:flex;
+  flex-direction: row;
+  place-content: center;
+  /*height:400vh;*/
+  background-color: black;
+}
+.app1 h1{
+  color:white;
+}
+@media(max-width:476px){
+  h1{
+    display: flex;
+    place-content: center;
+    font-size:0.6cm;
+  }
+}
